@@ -20,6 +20,6 @@
 
 ## Моя статистика:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlanassi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlanassi&show_icons=true)](https://github.com/svetlanassi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanassi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanassi&layout=compact)](https://github.com/svetlanassi)
