@@ -19,7 +19,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)  
 
 ## Мои контакты:
-[![mail](https://img.shields.io/badge/mail-000?style=for-the-badge&logo=mail&logoColor=white&link=mailto:sveta.suprun.hsi@yandex.ru)](sveta.suprun.hsi@yandex.ru)
+[![mail](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sveta.suprun.hsi@yandex.ru)](mailto:sveta.suprun.hsi@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/svetllanasi)](https://t.me/svetllanasi)
 
 ## Моя статистика:
 
