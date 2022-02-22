@@ -6,6 +6,11 @@
 - На данный момент я ищу работу в качестве Frontend-разработчика.
 - Буду рада общению 🙂
 
+## Мои контакты:
+[![mail](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sveta.suprun.hsi@yandex.ru)](mailto:sveta.suprun.hsi@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/svetllanasi)](https://t.me/svetllanasi)
+
+
 ## Мой стек технологий:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
@@ -17,10 +22,6 @@
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)  
-
-## Мои контакты:
-[![mail](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sveta.suprun.hsi@yandex.ru)](mailto:sveta.suprun.hsi@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/svetllanasi)](https://t.me/svetllanasi)
 
 ## Моя статистика:
 
