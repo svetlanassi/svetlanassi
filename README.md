@@ -18,6 +18,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)  
 
+## Мои контакты:
+[![mail](https://img.shields.io/badge/mail-000?style=for-the-badge&logo=mail&logoColor=white&link=mailto:sveta.suprun.hsi@yandex.ru)](sveta.suprun.hsi@yandex.ru)
+
 ## Моя статистика:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlanassi&show_icons=true)](https://github.com/svetlanassi)
